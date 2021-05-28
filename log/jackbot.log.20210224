@@ -1,0 +1,5 @@
+[DEBUG|logging_pack.py:45] 2021-02-24 12:58:05,406 > debug 모드!
+[INFO|logging_pack.py:46] 2021-02-24 12:58:05,411 > info 모드!
+[WARNING|logging_pack.py:47] 2021-02-24 12:58:05,411 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-02-24 12:58:05,411 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-02-24 12:58:05,411 > critical 모드!

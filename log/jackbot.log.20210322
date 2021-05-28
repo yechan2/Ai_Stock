@@ -1,0 +1,966 @@
+[DEBUG|logging_pack.py:45] 2021-03-22 23:11:35,725 > debug 모드!
+[INFO|logging_pack.py:46] 2021-03-22 23:11:35,727 > info 모드!
+[WARNING|logging_pack.py:47] 2021-03-22 23:11:35,728 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-03-22 23:11:35,728 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-03-22 23:11:35,728 > critical 모드!
+[DEBUG|trader.py:7] 2021-03-22 23:11:35,789 > trader start !!!!!!
+[DEBUG|trader.py:12] 2021-03-22 23:11:35,828 > Trader __init__!!!
+[DEBUG|open_api.py:309] 2021-03-22 23:11:54,192 > connected
+[DEBUG|open_api.py:250] 2021-03-22 23:11:54,192 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-03-22 23:11:54,192 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-03-22 23:11:54,193 > 계좌번호 : 8155173311
+[DEBUG|open_api.py:166] 2021-03-22 23:11:54,193 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-03-22 23:11:54,193 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-03-22 23:11:54,193 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-03-22 23:11:54,303 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-03-22 23:11:54,340 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-03-22 23:11:54,341 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-03-22 23:11:54,341 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-03-22 23:11:54,370 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:1468] 2021-03-22 23:11:54,453 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-03-22 23:11:54,453 > 1
+[DEBUG|open_api.py:296] 2021-03-22 23:11:55,459 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-03-22 23:11:55,459 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1479] 2021-03-22 23:11:55,461 > _opw00001!!!
+[DEBUG|open_api.py:1483] 2021-03-22 23:11:55,461 > 예수금!!!!
+[DEBUG|open_api.py:1484] 2021-03-22 23:11:55,461 > 000000500000000
+[DEBUG|open_api.py:541] 2021-03-22 23:11:55,462 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-03-22 23:11:55,462 > 2
+[DEBUG|open_api.py:296] 2021-03-22 23:11:55,483 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-03-22 23:11:55,483 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1632] 2021-03-22 23:11:55,484 > _opw00018!!!
+[DEBUG|trader.py:115] 2021-03-22 23:11:55,789 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:55,789 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:56,090 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:56,090 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:56,390 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:56,390 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:56,690 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:56,690 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:56,991 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:56,991 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:57,292 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:57,292 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:57,592 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:57,592 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:57,892 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:57,892 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:58,193 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:58,193 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:58,493 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:58,493 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:58,793 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:58,793 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:59,093 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:59,093 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:11:59,394 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:11:59,394 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|logging_pack.py:45] 2021-03-22 23:38:38,877 > debug 모드!
+[INFO|logging_pack.py:46] 2021-03-22 23:38:38,878 > info 모드!
+[WARNING|logging_pack.py:47] 2021-03-22 23:38:38,878 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-03-22 23:38:38,878 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-03-22 23:38:38,878 > critical 모드!
+[DEBUG|trader.py:7] 2021-03-22 23:38:38,899 > trader start !!!!!!
+[DEBUG|trader.py:12] 2021-03-22 23:38:38,917 > Trader __init__!!!
+[DEBUG|open_api.py:309] 2021-03-22 23:38:43,532 > connected
+[DEBUG|open_api.py:250] 2021-03-22 23:38:43,532 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-03-22 23:38:43,532 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-03-22 23:38:43,532 > 계좌번호 : 8155173311
+[DEBUG|open_api.py:166] 2021-03-22 23:38:43,533 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-03-22 23:38:43,533 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-03-22 23:38:43,533 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-03-22 23:38:43,542 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-03-22 23:38:43,568 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-03-22 23:38:43,568 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-03-22 23:38:43,568 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-03-22 23:38:43,580 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:105] 2021-03-22 23:38:43,603 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|trader.py:115] 2021-03-22 23:38:43,904 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:43,904 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:44,204 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:44,204 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:44,504 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:44,504 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:44,804 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:44,804 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:45,104 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:45,104 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:45,405 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:45,405 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:45,705 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:45,705 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:46,005 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:46,005 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:46,306 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:46,306 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:46,606 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:46,606 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:46,906 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:46,906 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:47,206 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:47,206 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:47,507 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:47,507 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:47,807 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:47,807 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:48,107 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:48,107 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:48,407 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:48,407 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:48,708 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:48,708 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:49,008 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:49,008 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:49,308 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:49,308 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:49,609 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:49,609 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:49,909 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:49,909 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:50,209 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:50,209 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:50,509 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:50,509 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:50,810 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:50,810 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:51,110 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:51,110 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:51,410 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:51,410 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:51,710 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:51,710 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:52,010 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:52,010 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:52,311 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:52,311 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:52,611 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:52,611 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:52,911 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:52,911 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:53,211 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:53,211 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:53,512 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:53,512 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:53,813 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:53,813 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:54,113 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:54,113 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:54,413 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:54,413 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:54,715 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:54,715 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:55,016 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:55,016 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:55,316 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:55,316 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:55,616 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:55,616 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:55,917 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:55,917 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:56,217 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:56,217 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:56,518 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:56,518 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:56,819 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:56,819 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:57,120 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:57,120 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:57,420 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:57,420 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:57,721 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:57,721 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:58,021 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:58,021 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:58,321 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:58,321 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:58,622 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:58,622 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:58,923 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:58,923 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:59,223 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:59,223 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:59,523 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:59,523 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:38:59,823 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:38:59,823 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:00,124 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:00,124 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:00,424 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:00,424 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:00,725 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:00,725 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:01,025 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:01,025 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:01,325 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:01,325 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:01,625 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:01,625 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:01,925 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:01,925 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:02,226 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:02,226 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:02,526 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:02,526 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:02,827 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:02,827 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:03,127 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:03,127 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:03,428 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:03,428 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:03,728 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:03,728 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:04,028 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:04,028 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:04,328 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:04,328 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:04,629 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:04,629 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:04,929 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:04,929 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:05,229 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:05,229 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:05,530 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:05,530 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:05,830 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:05,830 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:06,131 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:06,131 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:06,432 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:06,432 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:06,732 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:06,732 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:07,032 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:07,032 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:07,332 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:07,332 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:07,633 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:07,633 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:07,934 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:07,934 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:08,235 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:08,235 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:08,535 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:08,535 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:08,836 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:08,836 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:09,136 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:09,136 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:09,437 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:09,437 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:09,737 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:09,737 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:10,037 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:10,037 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:10,337 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:10,337 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:10,638 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:10,638 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:10,939 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:10,939 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:11,239 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:11,239 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:11,539 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:11,539 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:11,839 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:11,839 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:12,139 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:12,139 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:12,439 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:12,439 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:12,739 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:12,739 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:13,039 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:13,039 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:13,339 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:13,339 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:13,640 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:13,640 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:13,941 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:13,941 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:14,242 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:14,242 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:14,542 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:14,542 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:14,843 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:14,843 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:15,143 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:15,143 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:15,444 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:15,444 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:15,745 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:15,745 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:16,045 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:16,045 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|logging_pack.py:45] 2021-03-22 23:39:26,255 > debug 모드!
+[INFO|logging_pack.py:46] 2021-03-22 23:39:26,256 > info 모드!
+[WARNING|logging_pack.py:47] 2021-03-22 23:39:26,256 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-03-22 23:39:26,256 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-03-22 23:39:26,256 > critical 모드!
+[DEBUG|trader.py:7] 2021-03-22 23:39:26,276 > trader start !!!!!!
+[DEBUG|trader.py:12] 2021-03-22 23:39:26,291 > Trader __init__!!!
+[DEBUG|open_api.py:309] 2021-03-22 23:39:30,729 > connected
+[DEBUG|open_api.py:250] 2021-03-22 23:39:30,730 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-03-22 23:39:30,730 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-03-22 23:39:30,730 > 계좌번호 : 8155173311
+[DEBUG|open_api.py:166] 2021-03-22 23:39:30,730 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-03-22 23:39:30,730 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-03-22 23:39:30,730 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-03-22 23:39:30,739 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-03-22 23:39:30,763 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-03-22 23:39:30,763 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-03-22 23:39:30,764 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-03-22 23:39:30,776 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:105] 2021-03-22 23:39:30,797 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|trader.py:115] 2021-03-22 23:39:31,099 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:31,099 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:31,399 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:31,399 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:31,699 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:31,699 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:31,999 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:31,999 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:32,299 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:32,299 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:32,599 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:32,599 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:32,900 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:32,900 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:33,201 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:33,201 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:33,501 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:33,501 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:33,801 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:33,801 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:34,101 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:34,101 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:34,401 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:34,401 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:34,702 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:34,702 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:35,002 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:35,002 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:35,302 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:35,302 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:35,602 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:35,602 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:35,902 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:35,902 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:36,203 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:36,203 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:36,503 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:36,503 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:36,804 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:36,848 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:37,148 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:37,148 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:37,448 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:37,450 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:37,750 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:37,750 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:38,050 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:38,050 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:38,351 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:38,351 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:38,651 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:38,651 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:38,951 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:38,951 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:39,251 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:39,251 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:39,551 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:39,551 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:39,851 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:39,851 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:40,152 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:40,152 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:40,452 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:40,452 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:40,753 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:40,753 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:41,053 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:41,053 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:41,353 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:41,353 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:41,653 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:41,653 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:41,953 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:41,953 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:42,254 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:42,254 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:42,554 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:42,554 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:42,855 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:42,855 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:43,155 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:43,155 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:43,455 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:43,455 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|logging_pack.py:45] 2021-03-22 23:39:54,997 > debug 모드!
+[INFO|logging_pack.py:46] 2021-03-22 23:39:54,998 > info 모드!
+[WARNING|logging_pack.py:47] 2021-03-22 23:39:54,998 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-03-22 23:39:54,998 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-03-22 23:39:54,998 > critical 모드!
+[DEBUG|trader.py:7] 2021-03-22 23:39:55,021 > trader start !!!!!!
+[DEBUG|trader.py:12] 2021-03-22 23:39:55,037 > Trader __init__!!!
+[DEBUG|open_api.py:309] 2021-03-22 23:39:59,073 > connected
+[DEBUG|open_api.py:250] 2021-03-22 23:39:59,073 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-03-22 23:39:59,073 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-03-22 23:39:59,073 > 계좌번호 : 8155173311
+[DEBUG|open_api.py:166] 2021-03-22 23:39:59,073 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-03-22 23:39:59,073 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-03-22 23:39:59,073 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-03-22 23:39:59,080 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-03-22 23:39:59,105 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-03-22 23:39:59,105 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-03-22 23:39:59,105 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-03-22 23:39:59,127 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:105] 2021-03-22 23:39:59,159 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|trader.py:115] 2021-03-22 23:39:59,460 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:59,460 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:39:59,761 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:39:59,761 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:00,061 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:00,061 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:00,361 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:00,361 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:00,662 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:00,662 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:00,962 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:00,962 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:01,262 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:01,262 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:01,562 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:01,562 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:01,862 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:01,862 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:02,163 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:02,163 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:02,463 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:02,463 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
+[DEBUG|trader.py:115] 2021-03-22 23:40:02,763 > market_time_check!!!
+[DEBUG|trader.py:124] 2021-03-22 23:40:02,763 > 장시간이 아닙니다.테스트하실 경우는 trader.py 파일의 variable_setting 함수에서
+                     ### 모의, 실전 ### 부분을 주석 처리하시고
+                     ### 테스트용 ### 부분의 주석을 풀어주시기 바랍니다.
+                     실제로 모의/실전 투자 시 반드시 variable_setting을 원복해 주셔야 합니다. 
